@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm h1kkar</h1>
-
+</p>
 <div align="center">
 <p>Beginner programmer</p>
 <p>💾  Bash, 🌙  Lua, 🐹  Go, 🦀  Rust</p>
